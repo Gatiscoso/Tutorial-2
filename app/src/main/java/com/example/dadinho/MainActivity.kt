@@ -14,7 +14,9 @@ class MainActivity : AppCompatActivity() {
 
         button.setOnClickListener()
         {
+
             texto.text = num.numdado
+
         }
     }
 }
