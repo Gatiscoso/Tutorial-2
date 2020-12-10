@@ -6,5 +6,7 @@ class dado {
 }
 
 fun roll(): Int {
+
     return (1..6).shuffled().first()
+
 }
